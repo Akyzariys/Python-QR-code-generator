@@ -24,6 +24,10 @@ pip install -r requirements.txt
 python3 qr.py
 ```
 
+## Results
+
+![QrCode](mygit.png)
+
 ## Afterword
 
 I'm still training as well.
